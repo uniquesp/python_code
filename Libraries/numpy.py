@@ -116,3 +116,4 @@ print("Mean of random numbers:", np.mean(random_numbers))
 print("Standard deviation of random numbers:", np.std(random_numbers))
 print("Minimum:", np.min(random_numbers))
 print("Maximum:", np.max(random_numbers))
+    
